@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center"> Привет! Меня зовут Святослав🫶 </h1>
+<h1 align="center"> Hi! My name is Святослав🫶 </h1>
 
 ###
 
@@ -12,15 +12,18 @@
 
 ###
 
-<h3 align="left">🥇  Обо мне</h3>
+<h3 align="left">🥇  About me</h3>
+
+You've been taken to a page by a programmer technician who mostly writes in Python.
+It will be nice if you rate my repositories and give me your point of view.
 
 ###
-<!-- https://readme-typing-svg.herokuapp.com/demo/?pause=100&color=A7E8F7&background=FF0E0E00 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=E4F7F7FF&background=FF0E0E00&width=435&lines=Ааа,+сейчас+дай+подумать!+Минутку,+я+напишу)](https://git.io/typing-svg)
+
+<br>
 
 ###
 
-<h3 align="left">💻 Технический стек:</h3>
+<h3 align="left">💻 Technology stack:</h3>
 
 ###
 
@@ -55,10 +58,25 @@
 
 ###
 
-<h3 align="left">📟 Проекты:</h3>
+<br>
+
+<h3 align="left">📟 Projects:</h3>
 
 ####
 
-<p align="left"> Скоро допишу </p>
+- [Yandex-tasks](https://github.com/INVESTOR-IT/Yandex-tasks)
+- [TelegramBot-calendar-finance](https://github.com/INVESTOR-IT) - next
 
 ###
+
+<!-- https://readme-typing-svg.herokuapp.com/demo/?pause=100&color=A7E8F7&background=FF0E0E00 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=E4F7F7FF&background=FF0E0E00&width=435&lines=Ааа,+сейчас+дай+подумать!+Минутку,+я+напишу)](https://git.io/typing-svg)
+
+###
+
+<!-- [![INVESTOR-IT](https://github-readme-stats.vercel.app/api?username=INVESTOR-IT)](https://github.com/anuraghazra/github-readme-stats) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INVESTOR-IT&theme=github_dark)
+
+###
+
+
